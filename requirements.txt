@@ -1,0 +1,12 @@
+python-dotenv
+pandas
+numpy
+requests
+flask
+sqlalchemy
+pytest
+setuptools
+pymongo
+certifi 
+
+# -e .
