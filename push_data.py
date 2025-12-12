@@ -57,7 +57,7 @@ class DataExtract:
 
 if __name__ == "__main__":
     file_path = r"DataSet\phisingData.csv"  
-    database_name = "MLOpsDB"
+    database_name = "MLOpsPracticeDB"
     collection_name = "Phishing_Data"
 
     data_extractor = DataExtract()
