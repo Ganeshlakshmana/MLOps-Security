@@ -2,7 +2,7 @@ from datetime import datetime
 import os
 import sys
 
-from Security.entity.config_entity import DataIngestionConfig
+# from Security.entity.config_entity import DataIngestionConfig
 from Security.exception.exception import SecurityException
 from Security.logging.logger import logging
 from Security.constant import training_pipeline

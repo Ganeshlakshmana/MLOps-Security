@@ -8,5 +8,6 @@ pytest
 setuptools
 pymongo
 certifi 
+scikit-learn
 # pymongo[srv]
 # -e .
